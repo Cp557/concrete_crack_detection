@@ -1,5 +1,9 @@
 # Concrete Crack Detection Using Deep Learning
 
+
+![Concrete](concrete_negative.png)
+![Concrete](concrete_positive.png)
+*Figure: Examples of positive and negative concrete images used in the classification model.*
 ## Project Structure
 
 - `vgg16_model.ipynb`: Jupyter notebook for implementing and training a VGG16-based model for concrete crack detection.
