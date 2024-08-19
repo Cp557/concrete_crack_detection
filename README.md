@@ -1,9 +1,17 @@
 # Concrete Crack Detection Using Deep Learning
 
+## Overview
+Deep learning project comparing VGG16 and ResNet50 models for automated concrete crack detection. Includes model implementation, training, and performance evaluation scripts.
 
-![Concrete](concrete_negative.png)
-![Concrete](concrete_positive.png)
+<p align="center">
+  <img src="concrete_negative.png" width="400" alt="Negative Concrete Sample">
+  <img src="concrete_positive.png" width="400" alt="Positive Concrete Sample">
+</p>
+<p align="center">
+  <em>Figure: Examples of negative (left) and positive (right) concrete images used in the classification model.</em>
+</p>
 *Figure: Examples of positive and negative concrete images used in the classification model.*
+
 ## Project Structure
 
 - `vgg16_model.ipynb`: Jupyter notebook for implementing and training a VGG16-based model for concrete crack detection.
