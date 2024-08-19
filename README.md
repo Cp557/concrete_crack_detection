@@ -10,8 +10,6 @@ Deep learning project comparing VGG16 and ResNet50 models for automated concrete
 <p align="center">
   <em>Figure: Examples of negative (left) and positive (right) concrete images used in the classification model.</em>
 </p>
-*Figure: Examples of positive and negative concrete images used in the classification model.*
-
 ## Project Structure
 
 - `vgg16_model.ipynb`: Jupyter notebook for implementing and training a VGG16-based model for concrete crack detection.
